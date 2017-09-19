@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "UCA-OOQueue-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"end",
+		"start",
+		"size"
+	],
+	"name" : "OOQueue",
+	"type" : "normal"
+}

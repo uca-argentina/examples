@@ -1,0 +1,11 @@
+{
+	"instance" : {
+		"initialize" : "JulianMaestri 8/24/2017 01:53",
+		"enqueue:" : "JulianMaestri 8/24/2017 02:26",
+		"enqueueWhenNotEmpty:" : "JulianMaestri 8/24/2017 02:25",
+		"dequeue" : "JulianMaestri 8/24/2017 02:09",
+		"enqueueWhenEmpty:" : "JulianMaestri 8/24/2017 02:26",
+		"size" : "JulianMaestri 8/24/2017 01:53"
+	},
+	"class" : { }
+}

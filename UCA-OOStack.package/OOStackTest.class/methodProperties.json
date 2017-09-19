@@ -1,0 +1,10 @@
+{
+	"instance" : {
+		"testPushingAndPopingAsingleElement" : "JulianMaestri 9/19/2017 19:20",
+		"testWhenDequeuingAnEmptyQueueThrowsException" : "JulianMaestri 9/19/2017 19:20",
+		"testWhenPushingOneElementSizeIsOne" : "JulianMaestri 9/19/2017 19:20",
+		"testWhenPushingTwiceFirstElementsPopsSecond" : "JulianMaestri 9/19/2017 19:20",
+		"testWhenStackIsNewSizeIsZero" : "JulianMaestri 9/19/2017 19:20"
+	},
+	"class" : { }
+}

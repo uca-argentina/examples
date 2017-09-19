@@ -1,0 +1,4 @@
+accessing
+next
+
+	CollectionIsEmpty signal

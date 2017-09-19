@@ -1,0 +1,11 @@
+{
+	"instance" : {
+		"testWhenEnqueuingSomethingDequeuingReturnsSomething" : "JulianMaestri 8/24/2017 01:46",
+		"testWhenEnqueuingSomethingsDequeuingReturnsSomethings" : "JulianMaestri 8/24/2017 01:46",
+		"testWhenEnqueingDequeingSizeIsZero" : "JulianMaestri 8/24/2017 01:46",
+		"testWhenDequeuingAnEmptyQueueThrowsException" : "JulianMaestri 8/24/2017 01:47",
+		"testWhenEnqueingOneElementSizeIsOne" : "JulianMaestri 8/24/2017 01:46",
+		"testWhenQueueIsNewSizeIsZero" : "JulianMaestri 8/24/2017 01:46"
+	},
+	"class" : { }
+}
