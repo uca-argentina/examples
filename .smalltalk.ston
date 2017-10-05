@@ -1,0 +1,17 @@
+SmalltalkCISpec {
+  #loading : [
+    SCIMetacelloLoadSpec {
+      #baseline : 'Examples',
+      #load : [ 'Development' ],
+      #platforms : [ #pharo ]
+    }
+  ],
+  #testing : {
+    #coverage : {
+       #packages : [ 'UCA-*' ]
+    },
+    #include : {  
+       #packages : [ 'UCA-OOQueue-Tests', 'UCA-OOStack-Tests', 'UCA-Queue-Tests' ]
+    }
+  }
+} 
